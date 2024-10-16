@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.card {
+  border: 1px solid #ddd;
+  padding: 16px;
+  margin: 8px;
+  width: 200px;
+}
+.product-grid {
+  display: flex;
+  flex-wrap: wrap;
+}
+.hidden {
+  display: none;
+}
